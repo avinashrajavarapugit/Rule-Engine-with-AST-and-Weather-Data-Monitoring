@@ -1,6 +1,4 @@
-Here's a structured main `README.md` for your combined assignment repository: **Rule Engine with AST and Real-Time Data Processing System for Weather Monitoring with Rollups and Aggregates**:
 
----
 
 # Rule Engine with AST and Real-Time Data Processing System for Weather Monitoring with Rollups and Aggregates
 
